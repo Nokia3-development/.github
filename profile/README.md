@@ -8,6 +8,28 @@
 
 ---
 
+## How to Use This Archive
+
+Each device has its own dedicated repository. The history of the main branch in each repository reflects the latest available kernel source.
+
+### Finding a Specific Version
+
+Every official kernel source release is tied to a unique **Git tag**. To find the source code for a specific firmware version (e.g., `NE1_00WW_4_14F`):
+
+1.  Navigate to the device's repository.
+2.  Click on the "Releases" or "Tags" section.
+3.  You can download the source as a `.zip` or `.tar.gz` file for that specific tag, or check out the tag directly using Git.
+
+### Understanding the Dashboard
+
+The table below provides a summary of all archived devices.
+
+-   **Latest Kernel Version**: Shows the most recent version successfully imported.
+    -   A warning icon (**⚠️**) indicates that the *latest* scheduled import for that device failed (e.g., the download link was broken or the archive was invalid), but a previous version is available.
+    -   `*Import Failed*` means the automation was never able to import a valid kernel for that device.
+
+---
+
 ## Device Kernel Repositories
 
 | Device Name | Latest Kernel Version | Last Updated | Repository Link |
