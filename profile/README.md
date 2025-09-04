@@ -34,7 +34,6 @@ The table below provides a summary of all archived devices.
 
 | Device Name | Latest Kernel Version | Last Updated | Repository Link |
 |-------------|-----------------------|--------------|-----------------|
-| **Nokia G10** | *pending* | 2025-09-04 | [android_kernel_nokia_g10](https://github.com/Nokia3-development/android_kernel_nokia_g10) |
 | **Nokia 5.4** | *pending* | 2025-09-04 | [android_kernel_nokia_5.4](https://github.com/Nokia3-development/android_kernel_nokia_5.4) |
 | **Nokia C300** | *pending* | 2025-09-04 | [android_kernel_nokia_c300](https://github.com/Nokia3-development/android_kernel_nokia_c300) |
 | **Nokia 7 Plus** | *pending* | 2025-09-04 | [android_kernel_nokia_7_plus](https://github.com/Nokia3-development/android_kernel_nokia_7_plus) |
