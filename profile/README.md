@@ -34,6 +34,23 @@ The table below provides a summary of all archived devices.
 
 | Device Name | Latest Kernel Version | Last Updated | Repository Link |
 |-------------|-----------------------|--------------|-----------------|
+| **Nokia G10** | *pending* | 2025-09-04 | [android_kernel_nokia_g10](https://github.com/Nokia3-development/android_kernel_nokia_g10) |
+| **Nokia 5.4** | *pending* | 2025-09-04 | [android_kernel_nokia_5.4](https://github.com/Nokia3-development/android_kernel_nokia_5.4) |
+| **Nokia C300** | *pending* | 2025-09-04 | [android_kernel_nokia_c300](https://github.com/Nokia3-development/android_kernel_nokia_c300) |
+| **Nokia 7 Plus** | *pending* | 2025-09-04 | [android_kernel_nokia_7_plus](https://github.com/Nokia3-development/android_kernel_nokia_7_plus) |
+| **Nokia 5.3** | *pending* | 2025-09-04 | [android_kernel_nokia_5.3](https://github.com/Nokia3-development/android_kernel_nokia_5.3) |
+| **Nokia 3.4** | *pending* | 2025-09-04 | [android_kernel_nokia_3.4](https://github.com/Nokia3-development/android_kernel_nokia_3.4) |
+| **Nokia 3.1** | *pending* | 2025-09-04 | [android_kernel_nokia_3.1](https://github.com/Nokia3-development/android_kernel_nokia_3.1) |
+| **Nokia 2.1** | *pending* | 2025-09-04 | [android_kernel_nokia_2.1](https://github.com/Nokia3-development/android_kernel_nokia_2.1) |
+| **HMD T21** | *pending* | 2025-09-04 | [android_kernel_hmd_t21](https://github.com/Nokia3-development/android_kernel_hmd_t21) |
+| **Nokia 3.1 C** | *pending* | 2025-09-04 | [android_kernel_nokia_3.1_c](https://github.com/Nokia3-development/android_kernel_nokia_3.1_c) |
+| **Nokia 1.4** | *pending* | 2025-09-04 | [android_kernel_nokia_1.4](https://github.com/Nokia3-development/android_kernel_nokia_1.4) |
+| **HMD Pulse+** | *pending* | 2025-09-04 | [android_kernel_hmd_pulse_plus](https://github.com/Nokia3-development/android_kernel_hmd_pulse_plus) |
+| **Nokia 5.1 plus** | *pending* | 2025-09-04 | [android_kernel_nokia_5.1_plus](https://github.com/Nokia3-development/android_kernel_nokia_5.1_plus) |
+| **HMD Pulse** | *pending* | 2025-09-04 | [android_kernel_hmd_pulse](https://github.com/Nokia3-development/android_kernel_hmd_pulse) |
+| **Nokia 6.1 Plus** | *pending* | 2025-09-04 | [android_kernel_nokia_6.1_plus](https://github.com/Nokia3-development/android_kernel_nokia_6.1_plus) |
+| **Nokia 1 Plus** | *pending* | 2025-09-04 | [android_kernel_nokia_1_plus](https://github.com/Nokia3-development/android_kernel_nokia_1_plus) |
+| **HMD Pulse+** | *pending* | 2025-09-04 | [android_kernel_hmd-pulse-plus](https://github.com/Nokia3-development/android_kernel_hmd-pulse-plus) |
 | **Nokia 3** | `Nokia3_V5.230` | 2025-08-27 | [android_kernel_nokia_3](https://github.com/Nokia3-development/android_kernel_nokia_3) |
 | **Nokia 8.1** | `Nokia8.1_V7.190` | 2025-08-26 | [android_kernel_nokia_8.1](https://github.com/Nokia3-development/android_kernel_nokia_8.1) |
 | **Nokia 8.3 5G** | `Nokia8.3_V2.210_B01` | 2025-08-26 | [android_kernel_nokia_8.3_5g](https://github.com/Nokia3-development/android_kernel_nokia_8.3_5g) |
